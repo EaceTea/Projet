@@ -1,5 +1,5 @@
 <?php
 
-// Ceci est un fichier php
+// Ceci est un fichier php modifié
 
 phpinfo();
